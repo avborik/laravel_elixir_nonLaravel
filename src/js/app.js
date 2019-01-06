@@ -1,0 +1,1 @@
+console.log('Wow wow easy, it is work');
